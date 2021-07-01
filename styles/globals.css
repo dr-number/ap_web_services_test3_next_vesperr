@@ -14,3 +14,23 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+button{
+  all: unset;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+label{
+  margin-top: 10px;
+  width: 80px;
+  display: block;
+}
